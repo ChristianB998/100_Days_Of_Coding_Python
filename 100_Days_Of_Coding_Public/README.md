@@ -22,4 +22,4 @@ This repository is structured into different folders, each representing a day of
 💡 **Clone the repo** and try the challenges yourself  
 💡 **Check out the README files** for explanations and insights  
 
-I’m excited to share my journey and welcome feedback! 🚀
+I’m excited to share my journey! 🚀
