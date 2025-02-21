@@ -20,6 +20,6 @@ This repository is structured into different folders, each representing a day of
 
 💡 **Browse through the folders** to see daily progress  
 💡 **Clone the repo** and try the challenges yourself  
-💡 **Check out the README files** for explanations and insights  
+
 
 I’m excited to share my journey! 🚀
