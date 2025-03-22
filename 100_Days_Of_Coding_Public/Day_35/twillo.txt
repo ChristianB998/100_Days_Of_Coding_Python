@@ -1,0 +1,30 @@
+Open code block in new page
+
+from twilio.rest import Client
+account_sid = ''
+auth_token = '[AuthToken]'
+client = Client(account_sid, auth_token)
+message = client.messages.create(
+  messaging_service_sid='',
+  body='Ahoy 👋',
+  to=''
+)
+print(message.sid)
+
+
+// Whats-App
+
+from twilio.rest import Client
+
+account_sid = ''
+auth_token = '[AuthToken]'
+client = Client(account_sid, auth_token)
+
+message = client.messages.create(
+  from_='whatsapp:+',
+  content_sid='',
+  content_variables='{"1":"12/1","2":"3pm"}',
+  to='whatsapp:+'
+)
+
+print(message.sid)
